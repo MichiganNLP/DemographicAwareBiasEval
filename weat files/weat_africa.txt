@@ -1,0 +1,20 @@
+Nollywood Actress and Movies: 'nollywood', 'actress', 'actors', 'drama', 'celebrity', 'movie', 'acting', 'movies', 'producer', 'tv'.
+Parenting and family relationships: 'mother', 'mom', 'mothers', 'mum', 'moms', 'parent', 'her', 'child', 'momodu', 'parents'.
+Male_terms: male, man, boy, brother, he, him, his, son, Kwame', 'Mandela', 'Moyo', 'Jelani', 'Tariq', 'Keita', 'Obi', 'Simba', 'Ayo', 'Kofi', 'Jabari', 'Tunde', 'Mekonnen', 'Anwar', 'Chukwuemeka'. 
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aisha', 'Zahara', 'Nia', 'Sade', 'Amara', 'Chinelo', 'Layla', 'Ayana', 'Nala', 'Zuri', 'Imani', 'Lola', 'Kamaria', 'Nyala', 'Kaya'.
+Sports and Football: 'players', 'sports', 'fifa', 'team', 'player', 'football', 'mourinho', 'scored', 'league', 'champions'.
+Marriage and relationships: 'wives', 'marriage', 'husbands', 'marriages', 'married', 'wife', 'relationships', 'husband', 'marry', 'relationship'.
+Male_terms: male, man, boy, brother, he, him, his, son, Kwame', 'Mandela', 'Moyo', 'Jelani', 'Tariq', 'Keita', 'Obi', 'Simba', 'Ayo', 'Kofi', 'Jabari', 'Tunde', 'Mekonnen', 'Anwar', 'Chukwuemeka'. 
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aisha', 'Zahara', 'Nia', 'Sade', 'Amara', 'Chinelo', 'Layla', 'Ayana', 'Nala', 'Zuri', 'Imani', 'Lola', 'Kamaria', 'Nyala', 'Kaya'.
+Fashion and lifestyle: 'cher', 'nike', 'max', 'air', 'looked', 'face', 'love', 'tods', 'soldes', 'scarpe'.
+Womens lives and successes: 'women', 'ladies', 'woman', 'female', 'girls', 'men', 'gender', 'ones', 'employees', 'male'.
+Male_terms: male, man, boy, brother, he, him, his, son, Kwame', 'Mandela', 'Moyo', 'Jelani', 'Tariq', 'Keita', 'Obi', 'Simba', 'Ayo', 'Kofi', 'Jabari', 'Tunde', 'Mekonnen', 'Anwar', 'Chukwuemeka'. 
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aisha', 'Zahara', 'Nia', 'Sade', 'Amara', 'Chinelo', 'Layla', 'Ayana', 'Nala', 'Zuri', 'Imani', 'Lola', 'Kamaria', 'Nyala', 'Kaya'.
+Social Media: 'instagram', 'facebook', 'social', 'twitter', 'tweet', 'snapchat', 'tweets', 'tweeted', 'hashtag', 'followers'.
+Music: 'song', 'songs', 'album', 'hits', 'music', 'released', 'rap', 'singer', 'tracks', 'rapper'.
+Male_terms: male, man, boy, brother, he, him, his, son, Kwame', 'Mandela', 'Moyo', 'Jelani', 'Tariq', 'Keita', 'Obi', 'Simba', 'Ayo', 'Kofi', 'Jabari', 'Tunde', 'Mekonnen', 'Anwar', 'Chukwuemeka'. 
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aisha', 'Zahara', 'Nia', 'Sade', 'Amara', 'Chinelo', 'Layla', 'Ayana', 'Nala', 'Zuri', 'Imani', 'Lola', 'Kamaria', 'Nyala', 'Kaya'.
+Religious and Spiritual Growth: 'god', 'almighty', 'bible', 'christ', 'faith', 'believers', 'christian', 'jesus', 'prayer', 'religion'.
+Dating and relationships advice: 'dating', 'women', 'relationships', 'ladies', 'sites', 'singles', 'online', 'single', 'escorts', 'websites'.
+Male_terms: male, man, boy, brother, he, him, his, son, Kwame', 'Mandela', 'Moyo', 'Jelani', 'Tariq', 'Keita', 'Obi', 'Simba', 'Ayo', 'Kofi', 'Jabari', 'Tunde', 'Mekonnen', 'Anwar', 'Chukwuemeka'. 
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aisha', 'Zahara', 'Nia', 'Sade', 'Amara', 'Chinelo', 'Layla', 'Ayana', 'Nala', 'Zuri', 'Imani', 'Lola', 'Kamaria', 'Nyala', 'Kaya'.

@@ -1,0 +1,22 @@
+Political Leardership in India: 'modi', 'political', 'said', 'bjp', 'told', 'says', 'leader', 'congress', 'minister', 'public'.
+Hotel Royalty: 'visited', 'places', 'stayed', 'hotels', 'adventure', 'pictures', 'favourite', 'guest', 'hiking', 'hemingway'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Hiroshi', 'Ravi', 'Kazuki', 'Jin', 'Satoshi', 'Rohan', 'Haruki', 'Dai', 'Akira', 'Yuan'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Sakura', 'Mei', 'Aiko', 'Yuna', 'Lina', 'Ji-hye', 'Mika', 'Nami', 'Anika', 'Rina'.
+Sports and Soccer: 'sports', 'team', 'basketball', 'players', 'nba', 'league', 'championship', 'coach', 'rebounds', 'finals'.
+Healthy eating habits for children: 'food', 'foods', 'eating', 'meals', 'nutrition', 'cuisine', 'diet', 'dishes', 'cooking', 'eat'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Hiroshi', 'Ravi', 'Kazuki', 'Jin', 'Satoshi', 'Rohan', 'Haruki', 'Dai', 'Akira', 'Yuan'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Sakura', 'Mei', 'Aiko', 'Yuna', 'Lina', 'Ji-hye', 'Mika', 'Nami', 'Anika', 'Rina'.
+Social Media platforms for video sharing: 'instagram', 'video', 'videos', 'twitter', 'tweet', 'facebook', 'gifs', 'vlog', 'youtube', 'followers'.
+Royal wedding plans: 'meghan', 'duchess', 'engagement', 'england', 'royal', 'royalty', 'prince', 'kate', 'london', 'married'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Hiroshi', 'Ravi', 'Kazuki', 'Jin', 'Satoshi', 'Rohan', 'Haruki', 'Dai', 'Akira', 'Yuan'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Sakura', 'Mei', 'Aiko', 'Yuna', 'Lina', 'Ji-hye', 'Mika', 'Nami', 'Anika', 'Rina'.
+Religious devotion and spirituality: 'god', 'bible', 'holy', 'faith', 'prayer', 'believe', 'christian', 'blessed', 'christ', 'spiritual'.
+Royal wedding plans: 'meghan', 'duchess', 'engagement', 'england', 'royal', 'royalty', 'prince', 'kate', 'london', 'married'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Hiroshi', 'Ravi', 'Kazuki', 'Jin', 'Satoshi', 'Rohan', 'Haruki', 'Dai', 'Akira', 'Yuan'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Sakura', 'Mei', 'Aiko', 'Yuna', 'Lina', 'Ji-hye', 'Mika', 'Nami', 'Anika', 'Rina'.
+Bollywood actors and films: 'bollywood', 'bachchan', 'kapoor', 'actors', 'acting', 'kareena', 'actor', 'film', 'shahrukh', 'hindi'.
+Marriage: 'married', 'marriage', 'marriages', 'couple', 'couples', 'wife', 'marry', 'wedding', 'husband', 'divorced'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Hiroshi', 'Ravi', 'Kazuki', 'Jin', 'Satoshi', 'Rohan', 'Haruki', 'Dai', 'Akira', 'Yuan'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Sakura', 'Mei', 'Aiko', 'Yuna', 'Lina', 'Ji-hye', 'Mika', 'Nami', 'Anika', 'Rina'.
+
+

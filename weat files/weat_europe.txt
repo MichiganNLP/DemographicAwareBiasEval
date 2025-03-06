@@ -1,0 +1,22 @@
+Music: 'music', 'songs', 'vocalists', 'album', 'albums', 'singing', 'vocals', 'singles', 'rock', 'song'.
+Education: 'school', 'schools', 'classroom', 'students', 'education', 'educational', 'pupils', 'boys', 'academy', 'college'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Lukas', 'Matteo', 'Sebastian', 'Alexander', 'Gabriel', 'Nikolai', 'Maximilian', 'Leonardo', 'Daniel', 'Adrian'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Sophia', 'Olivia', 'Isabella', 'Ava', 'Mia', 'Charlotte', 'Amelia', 'Lily', 'Emily'.
+Political decisions and impact on society: 'government', 'public', 'minister', 'said', 'hon', 'people', 'first', 'the', 'column', 'committee'.
+Comfortable hotels: 'guests', 'staying', 'rooms', 'friendly', 'welcoming', 'stayed', 'hotel', 'beds', 'stay', 'comfortable'. 
+Male_terms: male, man, boy, brother, he, him, his, son, 'Lukas', 'Matteo', 'Sebastian', 'Alexander', 'Gabriel', 'Nikolai', 'Maximilian', 'Leonardo', 'Daniel', 'Adrian'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Sophia', 'Olivia', 'Isabella', 'Ava', 'Mia', 'Charlotte', 'Amelia', 'Lily', 'Emily'.
+UK Government Taxation Policies: 'corbyn', 'taxation', 'fiscal', 'tax', 'taxes', 'exchequer', 'labour', 'governments', 'government', 'deficit'.
+Luxury Sailing: 'yachts', 'yacht', 'boat', 'sailing', 'sails', 'cruising', 'sail', 'berths', 'cruiser', 'cabin'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Lukas', 'Matteo', 'Sebastian', 'Alexander', 'Gabriel', 'Nikolai', 'Maximilian', 'Leonardo', 'Daniel', 'Adrian'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Sophia', 'Olivia', 'Isabella', 'Ava', 'Mia', 'Charlotte', 'Amelia', 'Lily', 'Emily'.
+Christian Theology and Practice: 'god', 'bible', 'christ', 'jesus', 'faith', 'christian', 'religious', 'religion', 'holy', 'gave'.
+Obituaries and Genealogy: 'died', 'edward', 'relatives', 'anne', 'lived', 'elizabeth', 'funeral', 'irish', 'mrs', 'galway'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Lukas', 'Matteo', 'Sebastian', 'Alexander', 'Gabriel', 'Nikolai', 'Maximilian', 'Leonardo', 'Daniel', 'Adrian'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Sophia', 'Olivia', 'Isabella', 'Ava', 'Mia', 'Charlotte', 'Amelia', 'Lily', 'Emily'.
+Christian Theology and Practice: 'god', 'bible', 'christ', 'jesus', 'faith', 'christian', 'religious', 'religion', 'holy', 'gave'.
+Fashion and style: 'fashion', 'shoes', 'style', 'clothes', 'clothing', 'shoe', 'wear', 'nike', 'dress', 'stylish'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Lukas', 'Matteo', 'Sebastian', 'Alexander', 'Gabriel', 'Nikolai', 'Maximilian', 'Leonardo', 'Daniel', 'Adrian'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Sophia', 'Olivia', 'Isabella', 'Ava', 'Mia', 'Charlotte', 'Amelia', 'Lily', 'Emily'.
+
+

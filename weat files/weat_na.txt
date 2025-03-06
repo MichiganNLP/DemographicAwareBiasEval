@@ -1,0 +1,21 @@
+Religion and Spirituality: 'god', 'christ', 'jesus', 'bible', 'christian', 'holy', 'christians', 'scripture', 'faith', 'heaven'.
+Online Dating for Singles: 'dating', 'singles', 'hookup', 'single', 'relationships', 'dates', 'flirting', 'personals', 'date', 'mingle'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Liam', 'Noah', 'Ethan', 'Jacob', 'William', 'Michael', 'James', 'Alexander', 'Benjamin', 'Matthew'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Olivia', 'Ava', 'Sophia', 'Isabella', 'Mia', 'Charlotte', 'Amelia', 'Harper', 'Evelyn'.
+Reproductive Health: 'download', 'available', 'pdf', 'online', 'edition', 'manual', 'free', 'reprint', 'kindle', 'file'.
+Fashion and style: 'fashion', 'dresses', 'dress', 'wardrobe', 'clothes', 'clothing', 'style', 'outfit', 'vintage', 'wear'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Liam', 'Noah', 'Ethan', 'Jacob', 'William', 'Michael', 'James', 'Alexander', 'Benjamin', 'Matthew'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Olivia', 'Ava', 'Sophia', 'Isabella', 'Mia', 'Charlotte', 'Amelia', 'Harper', 'Evelyn'.
+Reinsurance and capital markets: 'reinsurance', 'reinsurers', 'insurers', 'insurance', 'securities', 'investors', 'investment', 'finance', 'trading', 'pension'.
+Education and achievements: 'school', 'schools', 'graduated', 'college', 'students', 'undergraduate', 'graduation', 'graduate', 'attended', 'education'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Liam', 'Noah', 'Ethan', 'Jacob', 'William', 'Michael', 'James', 'Alexander', 'Benjamin', 'Matthew'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Olivia', 'Ava', 'Sophia', 'Isabella', 'Mia', 'Charlotte', 'Amelia', 'Harper', 'Evelyn'.
+Nike shoes and fashion: 'nike', 'shoes', 'sneakers', 'jordans', 'jeans', 'tops', 'black', 'boys', 'men', 'casual'.
+Family dynamics and relationships: 'family', 'families', 'children', 'kids', 'grandchildren', 'relatives', 'grandparents', 'parents', 'child', 'parent'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Liam', 'Noah', 'Ethan', 'Jacob', 'William', 'Michael', 'James', 'Alexander', 'Benjamin', 'Matthew'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Olivia', 'Ava', 'Sophia', 'Isabella', 'Mia', 'Charlotte', 'Amelia', 'Harper', 'Evelyn'.
+Cape Cod news: 'lifeguard', 'drowned', 'drowns', 'newstweet', 'hospitalized', 'snorkeling', 'cape', 'reported', 'reuterstweet', 'pulled'.
+Reading and fiction: 'books', 'book', 'reading', 'novels', 'series', 'enjoyed', 'novel', 'romance', 'katniss', 'readers'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Liam', 'Noah', 'Ethan', 'Jacob', 'William', 'Michael', 'James', 'Alexander', 'Benjamin', 'Matthew'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Emma', 'Olivia', 'Ava', 'Sophia', 'Isabella', 'Mia', 'Charlotte', 'Amelia', 'Harper', 'Evelyn'.
+

@@ -1,0 +1,20 @@
+Religious beliefs and figures: 'god', 'gods', 'bible', 'mankind', 'faith', 'christ', 'spiritual', 'christian', 'religion', 'jesus'.
+Family relationships: 'mum', 'mother', 'mom', 'mums', 'parent', 'family', 'parents', 'baby', 'dad', 'father'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Manaia', 'Tane', 'Kai', 'Ariki', 'Mika', 'Koa', 'Rangi', 'Kane', 'Tama', 'Hemi'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aroha', 'Moana', 'Tui', 'Lani', 'Kahurangi', 'Ariana', 'Malie', 'Marama', 'Ava', 'Kaia'.
+Music record and Artists: 'music', 'album', 'albums', 'jazz', 'songs', 'hits', 'musicians', 'artists', 'recordings', 'blues'.
+Woordworking plans and projects: 'plans', 'furniture', 'woodwork', 'wood', 'woodcraft', 'woodworking', 'plywood', 'carpentry', 'cabinets', 'wooden'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Manaia', 'Tane', 'Kai', 'Ariki', 'Mika', 'Koa', 'Rangi', 'Kane', 'Tama', 'Hemi'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aroha', 'Moana', 'Tui', 'Lani', 'Kahurangi', 'Ariana', 'Malie', 'Marama', 'Ava', 'Kaia'.
+Building and designing boats: 'boatbuilder', 'boatbuilding', 'boats', 'plans', 'boat', 'sauceboat', 'sailboat', 'build', 'catamaran', 'kits'.
+Weight loss and nutrition for women: 'diet', 'workout', 'exercise', 'foods', 'weight', 'food', 'eating', 'healthy', 'pounds', 'fat'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Manaia', 'Tane', 'Kai', 'Ariki', 'Mika', 'Koa', 'Rangi', 'Kane', 'Tama', 'Hemi'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aroha', 'Moana', 'Tui', 'Lani', 'Kahurangi', 'Ariana', 'Malie', 'Marama', 'Ava', 'Kaia'.
+Superheroes and their Universes: 'superhero', 'superheroes', 'avengers', 'marvel', 'comics', 'superman', 'aquaman', 'heroes', 'comic', 'hero'.
+Exercises for hormone development: 'hormones', 'weightlifting', 'workouts', 'deadlifts', 'hormonal', 'exercises', 'lifting', 'testosterone', 'fitness', 'squats'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Manaia', 'Tane', 'Kai', 'Ariki', 'Mika', 'Koa', 'Rangi', 'Kane', 'Tama', 'Hemi'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aroha', 'Moana', 'Tui', 'Lani', 'Kahurangi', 'Ariana', 'Malie', 'Marama', 'Ava', 'Kaia'.
+Building and designing boats: 'boatbuilder', 'boatbuilding', 'boats', 'plans', 'boat', 'sauceboat', 'sailboat', 'build', 'catamaran', 'kits'.
+Kids' furniture and decor: 'furniture', 'chairs', 'sofas', 'ikea', 'sofa', 'cushions', 'sectional', 'upholstered', 'couch', 'childrens'.
+Male_terms: male, man, boy, brother, he, him, his, son, 'Manaia', 'Tane', 'Kai', 'Ariki', 'Mika', 'Koa', 'Rangi', 'Kane', 'Tama', 'Hemi'.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her, 'Aroha', 'Moana', 'Tui', 'Lani', 'Kahurangi', 'Ariana', 'Malie', 'Marama', 'Ava', 'Kaia'.
